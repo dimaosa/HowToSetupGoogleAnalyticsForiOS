@@ -72,13 +72,11 @@ GAI.sharedInstance().tracker(withTrackingId: "YOUR_TRACKING_ID")
 That's all steps that you need to add Google Analytics to your project.
 
 Take a look at two CocoaPods and find a difference 
-```ruby
-pod 'Google/Analytics'
-``` :
+
+``` pod 'Google/Analytics' ``` :
+
 ![alt tag](https://github.com/dimaosa/HowToSetupGoogleAnalyticsForiOS/blob/master/Images/Google_Analytics.png)
 
-And with ```ruby
-pod 'GoogleAnalytics'
-``` :
-![alt tag](https://github.com/dimaosa/HowToSetupGoogleAnalyticsForiOS/blob/master/Images/GoogleAnalytics.png)
+And with ```pod 'GoogleAnalytics' ``` :
 
+![alt tag](https://github.com/dimaosa/HowToSetupGoogleAnalyticsForiOS/blob/master/Images/GoogleAnalytics.png)
