@@ -23,7 +23,9 @@ end
 
 ```
 # 2. Add to Podfile(in Podfile): <br>
-```pod 'GoogleAnalytics'```
+```ruby
+pod 'GoogleAnalytics'
+```
 
 The Podfile should looks like this for now:  
 
